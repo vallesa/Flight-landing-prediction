@@ -3,4 +3,4 @@ Conducted data preparation/cleaning and statistical modeling in a project using 
 
 To see the project, open the pdf that is attached to this repository
 
-To have access to the data open
+The xls attached files have the data used for this project
